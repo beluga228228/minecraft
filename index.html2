@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Minecraft</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Про игру</a></li>
+            <li><a href="#">Геймплей</a></li>
+        </ul>
+    </nav>
+
+    <section class="main-content">
+        <h2>Геймплей</h2>
+        <ul>
+            <li>Выживание</li>
+            <p>Основной геймплей режима виживания развиваться, по пути встречая мобов враждебных или мирных и такими темпами доходя до финального боса-эндер дракона,которого нужно убить теми предметами которые ты получал по пути.
+            </p>
+        </ul>
+        <img src="https://i.ytimg.com/vi/7qBLJwow2Ro/maxresdefault.jpg" width="550px" height="350px"/>
+        <ul>
+            <li>Творческий режим</li>
+                <p>В творческом режиме нет границ фантазии, можно делать красивые постройки и дома,также в режиме креатива нельзя получать урон в отличии от выживания.</p>
+        </ul>
+        <img src="https://gas-kvas.com/grafic/uploads/posts/2024-01/gas-kvas-com-p-oboi-dom-v-mainkrafte-10.jpg" width="250px" height="150px"/>
+        <img src="https://celes.club/uploads/posts/2022-05/1653684645_42-celes-club-p-fon-mainkraft-postroiki-krasivie-48.png" width="250px" height="150px"/>
+    </section>
+
+    <footer>
+        <p>&copy; 2022 Minecraft Game. All rights reserved.</p>
+    </footer>
+</body>
+</html>
